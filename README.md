@@ -1,10 +1,17 @@
 ### Hello there 👋
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhangDo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangDo&layout=compact" /> 
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangdo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/zhangdo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangdo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-- 🌱  I’m currently learning Flutter
+#### Top Repositories
 
-- 🔭  I’m currently working on [Vibefy](https://github.com/ZhangDo/NeteaseTVDemo)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhangDo&repo=NeteaseTVDemo)](https://github.com/ZhangDo/NeteaseTVDemo) TestFlight:  [Vibefy](https://testflight.apple.com/join/he8gBuuY)
+
+<a href="https://github.com/ZhangDo/NeteaseTVDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdo&repo=NeteaseTVDemo&theme=buefy" />
+</a>
+<a href="https://github.com/ZhangDo/NeteaseRequest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdo&repo=NeteaseRequest&theme=buefy" />
+</a>
+
+<br />
+<br />
